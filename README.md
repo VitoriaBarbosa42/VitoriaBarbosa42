@@ -1,36 +1,41 @@
-<h1 align="left">Olá! Bem vindo(a) ao meu Github</h1>
+<h1 align="left">Olá, Sou a Vitória Barbosa! 👋</h1>
 
 ###
 
-<p align="left">Sou uma estudante de Engenharia de Software</p>
+<p align="left">Bem-vindo(a) ao meu  GitHub! Sou uma estudante de Engenharia de Software e estou em uma jornada contínua de aprendizado no mundo da programação. Este é o lugar onde compartilho meu progresso, meus estudos e projetos.</p>
 
 ###
 
-<h3 align="left">Minhas techs:</h3>
+<h2 align="left">Em desenvolvimento em:</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
+<p align="left">Java - Básico<br>Python - Intermediário<br>SQL - Básico<br>AWS - Estudando</p>
 
+###
 
-<!--
-**VitoriaBarbosa42/VitoriaBarbosa42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">📫 Conecte-se Comigo!</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Adoraria trocar ideias e experiências! Sinta-se à vontade para se conectar:<br><br>LinkedIn: www.linkedin.com/in/vitoria-s-barbosa</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaBarbosa42&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
