@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Java - Básico<br>Python - Intermediário<br>SQL - Básico<br>AWS - Estudando</p>
+<p align="left">Java - Intermediário<br>Python - Intermediário<br>SQL - Básico<br>AWS - Estudando</p>
 
 ###
 
