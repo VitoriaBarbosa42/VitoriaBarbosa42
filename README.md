@@ -31,11 +31,3 @@
 ###
 
 <p align="left">Adoraria trocar ideias e experiências! Sinta-se à vontade para se conectar:<br><br>LinkedIn: www.linkedin.com/in/vitoria-s-barbosa</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaBarbosa42&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
