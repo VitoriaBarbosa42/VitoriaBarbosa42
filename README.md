@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Java - Intermediário<br>Python - Intermediário<br>SQL - Básico<br>AWS Certified Cloud Practitioner<br>Spring Boot</p>
+<p align="left">Java - Intermediário<br>Python - Intermediário<br>SQL - Básico<br>AWS Certified Cloud Practitioner<br>Spring</p>
 
 ###
 
